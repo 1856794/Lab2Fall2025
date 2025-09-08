@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class GetToKnowYou here.
+ * Prints out 3 lines of output that introduces me. Uses 1 print statement
  *
  * @author Robert Padilla
  * @version v1.0

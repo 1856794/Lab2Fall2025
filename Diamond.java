@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Diamond here.
+ * Prints out a diamond using asterisks, spaces, and seven print statements
  *
  * @author Robert Padilla
  * @version v1.0

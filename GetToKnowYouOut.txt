@@ -1,0 +1,3 @@
+Name: Robert Padilla 
+Major: Data Science 
+Hobby: Guitar

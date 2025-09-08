@@ -1,7 +1,8 @@
 
 /**
- * Write a description of class Imprecision here.
- *  program to show imprecision
+ * Prints out the variables x, y, and z of type double. operations are 
+ * carried out on certain variables before printing.
+ * 
  * @author Robert Padilla
  * @version v1.0
  * @since 9/7/2025
